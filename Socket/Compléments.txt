@@ -1,0 +1,22 @@
+Commandes à implémenter dans le code
+
+OS
+RAM
+CPU
+IP
+None
+Disconnect
+Kill
+Reset
+Dos:dir : Affiche une liste des fichiers correspondants dans chaque répertoire
+DOS:Mkdir
+Linux:ls-la
+Powershell:get-process
+Python--version
+
+Disconnect
+Kill
+Reset
+
+
+Question : Moyen d'affiche automatiquement les repertoires de la session active, detection automatique et application dans le code
